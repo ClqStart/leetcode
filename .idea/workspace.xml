@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="348d0f25-fe6b-473c-8d97-5a5882455bee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/二叉树/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/二叉树/_226_翻转二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/列表/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/列表/_141_环形链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/列表/_203_移除链表元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/列表/_206_反转链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/列表/_237_删除链表中的节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/列表/_83_删除排序链表中的重复元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/列表/_876_链表的中间结点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/堆/_20_有效的括号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/堆/_856_括号的分数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/数组/_80_删除序数组中的重复项2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/递归/_45_跳跃游戏2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/递归/_70_爬楼梯.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/队列/_232_用队列实现栈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/AVL树/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/AVL树/Tree/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/AVL树/Tree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/AVL树/Tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/AVL树/file/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/AVL树/printer/BinaryTreeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/AVL树/printer/BinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/AVL树/printer/InorderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/AVL树/printer/LevelOrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/AVL树/printer/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/AVL树/printer/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Line/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Line/CircleDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Line/CircleQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Line/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Line/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Line/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Line/Mian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Line/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trie/trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lk/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lk/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lk/DoubleCircleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lk/DoubleCircleLinkedList_question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lk/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lk/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lk/LinkedList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lk/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lk/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lk/singClirleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mj/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mj/Asserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mj/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stack/list/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stack/list/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stack/list/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stack/list/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树/file/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树/printer/BinaryTreeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树/printer/BinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树/printer/InorderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树/printer/LevelOrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树/printer/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树/printer/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树2/Tree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树2/Tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树2/file/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树2/printer/BinaryTreeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树2/printer/BinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树2/printer/InorderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树2/printer/LevelOrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树2/printer/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉搜索树2/printer/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉树的非递归遍历/Asserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉树的非递归遍历/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉树的非递归遍历/printer/BinaryTreeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉树的非递归遍历/printer/BinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉树的非递归遍历/printer/InorderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉树的非递归遍历/printer/LevelOrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉树的非递归遍历/printer/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉树的非递归遍历/printer/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉树的非递归遍历/tree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/二叉树的非递归遍历/tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/Key.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/Set/HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/Set/LinkedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/Set/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/SubKey1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/SubKey2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/map/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/map/LinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/map/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/map/TreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/printer/BinaryTreeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/printer/BinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/printer/InorderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/printer/LevelOrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/printer/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/哈希表/printer/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/堆/AbstractHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/堆/BinaryHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/堆/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/堆/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/堆/printer/BinaryTreeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/堆/printer/BinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/堆/printer/InorderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/堆/printer/LevelOrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/堆/printer/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/堆/printer/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/映射/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/映射/Set/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/映射/Set/TreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/映射/Tree/BBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/映射/Tree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/映射/Tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/映射/Tree/RBTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/映射/map/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/映射/map/TreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/红黑树/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/红黑树/Tree/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/红黑树/Tree/BBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/红黑树/Tree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/红黑树/Tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/红黑树/Tree/RBTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/红黑树/file/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/红黑树/printer/BinaryTreeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/红黑树/printer/BinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/红黑树/printer/InorderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/红黑树/printer/LevelOrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/红黑树/printer/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/红黑树/printer/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/集合/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/集合/Set/ListSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/集合/Set/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/集合/Set/TreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/集合/Tree/BBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/集合/Tree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/集合/Tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/集合/Tree/RBTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/集合/file/FileInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/集合/file/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/集合/list/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/集合/list/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/集合/list/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Graph/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Graph/ListGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Graph/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Graph/MinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Graph/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Union/GenericUnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Union/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Union/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Union/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Union/UnionFind_QF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Union/UnionFind_QU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Union/UnionFind_QU_R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Union/UnionFind_QU_R_PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Union/UnionFind_QU_R_PH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Union/UnionFind_QU_R_PS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/Union/UnionFind_QU_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/Integers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/BubbleSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/BubbleSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/BubbleSort3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/InsertionSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/InsertionSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/Times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/cmpSort/bucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/countsort/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/countsort/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/sort/countsort/RadixSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/动态规划/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/动态规划/LCSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/动态规划/LTS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/动态规划/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/动态规划/_1143_最长公共子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/动态规划/_300_最长上升子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/动态规划/knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/回溯/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/回溯/Queens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/回溯/Queens0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/回溯/Queens8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/贪心/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/贪心/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/贪心/Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/贪心/Private.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/贪心/_53_最大子序和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/递归/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/递归/Fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/递归/Hanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/递归/NoDigui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第二季/算法/递归/TailCall.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2twhBlw4uc2SRyHdMwPrV7dla6t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/code/leetcode/leetcode/src",
+    "onboarding.tips.debug.path": "D:/code/leetcode/leetcode/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\leetcode\leetcode\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="348d0f25-fe6b-473c-8d97-5a5882455bee" name="Changes" comment="" />
+      <created>1741268911099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741268911099</updated>
+    </task>
+    <servers />
+  </component>
+</project>
