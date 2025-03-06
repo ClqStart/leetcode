@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="348d0f25-fe6b-473c-8d97-5a5882455bee" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
@@ -217,6 +218,14 @@
       <change afterPath="$PROJECT_DIR$/src/第二季/算法/递归/Hanoi.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/第二季/算法/递归/NoDigui.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/第二季/算法/递归/TailCall.java" afterDir="false" />
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="348d0f25-fe6b-473c-8d97-5a5882455bee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 391f03a (code base)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
